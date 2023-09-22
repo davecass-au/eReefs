@@ -1,0 +1,17 @@
+
+#map {
+    height: 180px;
+
+}
+
+
+.mapContainer {
+    flex:1;
+    border-style:inset;
+}
+
+
+.leaflet-container {
+    width: 100%;
+    height: 100%;
+}
